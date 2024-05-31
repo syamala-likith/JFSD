@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+INDEX VERSION 1.4+D:\3rd year\JFSD\DEMOWORKSPACE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2615258031.index
+3923055801.index
+3287601860.index
+1401589538.index
+1760921751.index
+677131711.index
+590141421.index
+2876592714.index
+2755680508.index
+=======
+INDEX VERSION 1.4+D:\3rd year\JFSD\JFSDWORKSPACE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1401589538.index
+2993776438.index
+2479956766.index
+1760921751.index
+1588721681.index
+590141421.index
+2823860579.index
+373780881.index
+3287601860.index
+>>>>>>> 5e682ac (commit msg)

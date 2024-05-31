@@ -1,0 +1,7 @@
+#Tomcat publish data
+<<<<<<< HEAD
+#Fri Sep 29 19:42:02 IST 2023
+=======
+#Sun Sep 24 11:01:35 IST 2023
+>>>>>>> 5e682ac (commit msg)
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\asus\\.m2\\repository\\org\\springframework\\spring-web\\5.3.29\\spring-web-5.3.29.jar=WEB-INF/lib/spring-web-5.3.29.jar

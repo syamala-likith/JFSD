@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- bean definitions here -->
+	<bean id="studentbean" class="SetterDI.Student">
+		<property name="id" value="1000"></property>
+		<property name="name" value="KLU"></property>
+		<property name="gender" value="FEMALE"></property>
+		<property name="age" value="25.6"></property>
+		<property name="cgpa" value="9.81"></property>
+		<property name="email" value="klu@gmail.com"></property>
+		<property name="graduated" value="true"></property>
+		<property name="skills">
+			<list>
+				<value>AWS</value>
+				<value>REDHAT</value>
+				<value>PCAP</value>
+			</list>
+		</property>
+	</bean>
+
+	
+	<bean id="empbean" class="ConstructorDI.Employee">
+		<constructor-arg value="100"></constructor-arg>
+		<constructor-arg value="KLU"></constructor-arg>
+		<constructor-arg value="33.5"></constructor-arg>
+		<constructor-arg value="12000.50"></constructor-arg>
+		<constructor-arg value="false"></constructor-arg>
+		<constructor-arg>
+			<list>
+				<value>Azure</value>
+				<value>Java</value>
+				<value>ServiceNow</value>
+			</list>
+		</constructor-arg>
+	</bean>
+	
+	
+	<bean id="personbean" class="AutowiringDemo.Person">
+		<property name="id" value="1234"></property>
+		<property name="name" value="SURYA"></property>
+		<property name="gender" value="MALE"></property>
+		<property name="dob" value="25/10/1993"></property>
+		<property name="address" ref="addressbean"></property>
+	</bean>
+
+	
+	<bean id="addressbean" class="AutowiringDemo.Address">
+		<property name="street" value="benzcircle"></property>
+		<property name="city" value="Vijayawada"></property>
+		<property name="state" value="AP"></property>
+		<property name="country" value="INDIA"></property>
+		<property name="pincode" value="520010"></property>
+	</bean>
+
+</beans>
