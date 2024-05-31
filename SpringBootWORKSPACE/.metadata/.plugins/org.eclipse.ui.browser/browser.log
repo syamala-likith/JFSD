@@ -1,0 +1,58 @@
+
+Sept 23, 2023 16:07:32.332 NEW SESSION
+Sept 23, 2023 16:07:32.332 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Sept 30, 2023 16:44:09.195 NEW SESSION
+Sept 30, 2023 16:44:09.195 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Sept 30, 2023 17:27:32.147 [6760:6524:0930/172732.147:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sept 30, 2023 17:55:06.208 [6760:6524:0930/175506.208:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Sept 30, 2023 17:55:07.741 [6760:6524:0930/175507.741:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sept 30, 2023 17:55:10.909 [6760:6524:0930/175510.909:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Oct 04, 2023 21:26:33.500 NEW SESSION
+Oct 04, 2023 21:26:33.500 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 07, 2023 11:05:26.908 NEW SESSION
+Oct 07, 2023 11:05:26.908 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 07, 2023 12:56:41.797 [13256:13760:1007/125641.797:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 07, 2023 12:59:20.510 [13256:13760:1007/125920.510:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 12:59:24.520 [13256:13760:1007/125924.520:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 12:59:29.185 [13256:13760:1007/125929.185:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 12:59:36.526 [13256:13760:1007/125936.526:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Oct 07, 2023 13:00:21.914 [13256:13760:1007/130021.914:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 07, 2023 13:02:55.04 [13256:13760:1007/130255.004:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Oct 07, 2023 13:03:38.804 [13256:13760:1007/130338.804:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 07, 2023 13:03:44.243 [13256:13760:1007/130344.243:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+
+Oct 07, 2023 14:43:31.527 NEW SESSION
+Oct 07, 2023 14:43:31.527 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 07, 2023 14:49:48.40 [14720:9088:1007/144948.040:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Oct 07, 2023 15:21:57.497 [14720:18116:1007/152157.497:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 07, 2023 15:26:10.173 [14720:18116:1007/152610.173:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:29:41.448 [14720:18116:1007/152941.448:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:30:26.512 [14720:18116:1007/153026.512:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Oct 07, 2023 15:30:42.718 [14720:18116:1007/153042.717:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:30:48.335 [14720:18116:1007/153048.335:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:31:10.407 [14720:18116:1007/153110.407:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:31:12.412 [14720:18116:1007/153112.412:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:31:35.103 [14720:18116:1007/153135.102:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:31:51.205 [14720:18116:1007/153151.205:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:32:02.686 [14720:18116:1007/153202.683:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:32:16.187 [14720:18116:1007/153216.187:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:32:20.977 [14720:18116:1007/153220.977:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:32:25.740 [14720:9088:1007/153225.740:ERROR:device_event_log_impl.cc(225)] [15:32:25.741] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 07, 2023 15:32:26.118 [14720:18116:1007/153226.118:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 15:32:35.226 [14720:18116:1007/153235.226:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:32:46.189 [14720:18116:1007/153246.189:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:32:58.584 [14720:18116:1007/153258.584:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:33:08.411 [14720:18116:1007/153308.410:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Oct 07, 2023 15:33:32.393 [14720:18116:1007/153332.393:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 07, 2023 15:35:26.174 [14720:18116:1007/153526.174:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:35:42.861 [14720:9088:1007/153542.858:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Oct 07, 2023 15:36:10.682 [14720:18116:1007/153610.682:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Oct 14, 2023 09:22:09.812 NEW SESSION
+Oct 14, 2023 09:22:09.812 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 09:32:44.864 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 09:44:03.672 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 09:45:50.877 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
