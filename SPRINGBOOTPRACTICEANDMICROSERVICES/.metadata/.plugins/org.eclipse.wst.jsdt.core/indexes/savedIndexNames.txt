@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\3rd year\JFSD\SPRINGBOOTPRACTICEANDMICROSERVICES\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+335211976.index
+1794388412.index
+2561785782.index
+28896780.index

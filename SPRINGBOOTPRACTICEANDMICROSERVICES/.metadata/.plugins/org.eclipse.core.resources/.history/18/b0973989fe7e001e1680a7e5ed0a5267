@@ -1,0 +1,9 @@
+package com.klef.jfsd.springboot.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+@RequestMapping("demo1")
+public class ClientController {
+
+}

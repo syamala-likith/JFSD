@@ -1,0 +1,7 @@
+package com.klef.jfsd.springboot.controller;
+
+@Controller
+
+public class ClientController {
+
+}

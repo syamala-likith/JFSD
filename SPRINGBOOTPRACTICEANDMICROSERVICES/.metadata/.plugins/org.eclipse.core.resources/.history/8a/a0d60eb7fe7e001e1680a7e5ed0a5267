@@ -1,0 +1,16 @@
+package com.klef.jfsd.springboot.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("demo1")
+public class ClientController 
+{
+	@GetMapping("/") 
+	@ResponseBody
+	public String admin()
+	{
+		return "Admin Microservice";
+	}
+}

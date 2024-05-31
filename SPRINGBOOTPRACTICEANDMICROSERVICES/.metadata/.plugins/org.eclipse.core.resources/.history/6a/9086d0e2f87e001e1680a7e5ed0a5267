@@ -1,0 +1,16 @@
+server.port=2222
+
+spring.application.name=apigateway-service
+eureka.instance.hostname=localhost
+
+spring.main.web-application-type=reactive
+
+spring.cloud.gateway.routes[0].id=demo1-service
+spring.cloud.gateway.routes[0].uri=http://localhost:2001
+spring.cloud.gateway.routes[0].predicates[0].name=Path
+spring.cloud.gateway.routes[0].predicates[0].args[pattern]=/demo1/**
+
+spring.cloud.gateway.routes[1].id=emp-service
+spring.cloud.gateway.routes[1].uri=http://localhost:2002
+spring.cloud.gateway.routes[1].predicates[0].name=Path
+spring.cloud.gateway.routes[1].predicates[0].args[pattern]=/emp/**

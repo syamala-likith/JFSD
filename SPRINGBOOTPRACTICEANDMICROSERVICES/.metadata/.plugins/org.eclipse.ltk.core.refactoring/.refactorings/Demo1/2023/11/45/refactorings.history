@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.klef.jfsd.springboot.controller&apos; to &apos;Demo2/src/main/java/com.klef.jfsd.springboot&apos;&#x0D;&#x0A;- Original project: &apos;Demo1&apos;&#x0D;&#x0A;- Destination element: &apos;Demo2/src/main/java/com.klef.jfsd.springboot&apos;&#x0D;&#x0A;- Original element: &apos;Demo1/src/main/java/com.klef.jfsd.springboot.controller&apos;" description="Copy package" destination="=Demo2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.klef.jfsd.springboot" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.klef.jfsd.springboot.controller" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1699534323926" version="1.0"/>
+</session>
