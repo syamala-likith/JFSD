@@ -1,0 +1,15 @@
+127.0.0.1 - - [11/Sep/2023:20:12:28 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:12:32 +0530] "GET /SpringWebMVCProject/ HTTP/1.1" 200 132
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:12:32 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:13:02 +0530] "GET /SpringWebMVCProject/home HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:13:29 +0530] "GET /SpringWebMVCProject/demo1 HTTP/1.1" 200 132
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:13:32 +0530] "GET /SpringWebMVCProject/demo HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:13:35 +0530] "GET /SpringWebMVCProject/demo1 HTTP/1.1" 200 132
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:14:43 +0530] "GET /SpringWebMVCProject/demo2 HTTP/1.1" 200 132
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:14:47 +0530] "GET /SpringWebMVCProject/demo3 HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:14:51 +0530] "GET /SpringWebMVCProject/demo4 HTTP/1.1" 200 158
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:14:53 +0530] "GET /SpringWebMVCProject/demo5 HTTP/1.1" 200 170
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:14:57 +0530] "GET /SpringWebMVCProject/demo11 HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:15:00 +0530] "GET /SpringWebMVCProject/demo10/SYAMALA/LIKITH HTTP/1.1" 200 166
+127.0.0.1 - - [11/Sep/2023:20:15:42 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Sep/2023:20:15:42 +0530] "GET /SpringWebMVCCRUDProject/ HTTP/1.1" 200 403

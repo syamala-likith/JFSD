@@ -1,0 +1,44 @@
+package com.klef.jfsd.dao;
+
+import java.util.List;
+
+import org.springframework.orm.hibernate5.HibernateTemplate;
+
+import com.klef.jfsd.model.Employee;
+
+public class EmployeeDAOImpl implements EmployeeDAO
+{
+	
+	private HibernateTemplate HibernateTemplate
+
+	@Override
+	public String AddEmployee(Employee emp) 
+	{
+		return null;
+	}
+
+	@Override
+	public String UpdateEmployee(Employee emp) 
+	{
+		return null;
+	}
+
+	@Override
+	public String DeleteEmployee(int id) 
+	{
+		return null;
+	}
+
+	@Override
+	public List<Employee> ViewAllEmployees() 
+	{
+		return null;
+	}
+
+	@Override
+	public Employee ViewEmployeeByID(int id) 
+	{
+		return null;
+	}
+
+}
